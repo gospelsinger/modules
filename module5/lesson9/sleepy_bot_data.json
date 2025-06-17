@@ -1,0 +1,108 @@
+{
+    "583106078": [
+        {
+            "start_time": "2025-06-17 22:32:21.802235",
+            "duration": 3,
+            "quality": 1,
+            "notes": "really not good"
+        },
+        {
+            "start_time": "2025-06-17 22:43:29.362624",
+            "duration": 7,
+            "quality": 2,
+            "notes": "better, but still awful"
+        },
+        {
+            "start_time": "2025-06-17 22:44:48.130953",
+            "duration": 73,
+            "quality": 4,
+            "notes": "too short"
+        },
+        {
+            "start_time": "2025-06-17 22:46:34.909918",
+            "duration": 6,
+            "quality": 5,
+            "notes": "still short"
+        },
+        {
+            "start_time": "2025-06-17 22:47:16.164610",
+            "duration": 136,
+            "quality": 9,
+            "notes": "nice, I like it"
+        },
+        {
+            "start_time": "2025-06-17 23:10:50.618687",
+            "duration": 13,
+            "quality": 10,
+            "notes": "Wondefull!"
+        },
+        {
+            "start_time": "2025-06-17 23:19:42.605624",
+            "duration": 23,
+            "quality": 8,
+            "notes": "I'm still sleepy"
+        },
+        {
+            "start_time": "2025-06-17 23:34:02.865471",
+            "duration": 2,
+            "quality": 3,
+            "notes": "I need to wash my hair"
+        },
+        {
+            "start_time": "2025-06-17 23:34:31.546878",
+            "duration": 2,
+            "quality": 7,
+            "notes": "arghh..."
+        },
+        {
+            "start_time": "2025-06-17 23:36:58.985092",
+            "duration": 5,
+            "quality": 10,
+            "notes": "wow"
+        },
+        {
+            "start_time": "2025-06-17 23:37:26.439831",
+            "duration": 2,
+            "quality": 2,
+            "notes": "I'm tired"
+        }
+    ],
+    "388446309": [
+        {
+            "start_time": "2025-06-17 23:05:56.886642",
+            "duration": 6,
+            "quality": 3,
+            "notes": "Беспокойный"
+        },
+        {
+            "start_time": "2025-06-17 23:12:31.839060",
+            "duration": 7,
+            "quality": 1,
+            "notes": "Отсутствует"
+        }
+    ],
+    "1073202906": [
+        {
+            "start_time": "2025-06-17 23:06:16.829638",
+            "duration": 16,
+            "quality": 8,
+            "notes": "Мой сон был очень быстрый. Только закрыла глаза и уже вставать пора. 🤣"
+        }
+    ],
+    "818639760": [
+        {
+            "start_time": "2025-06-17 23:12:35.302357",
+            "duration": 0,
+            "quality": null,
+            "notes": null
+        }
+    ],
+    "140946188": [
+        {
+            "start_time": "2025-06-17 23:22:30.536362",
+            "duration": 10,
+            "quality": 1,
+            "notes": "10 секунд это не нормально"
+        }
+    ]
+}
